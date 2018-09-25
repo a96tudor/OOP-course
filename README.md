@@ -36,5 +36,5 @@ Ruland comanda:
 ### 2. Executarea efectiva
 Ruland comanda:
 ```bash
-  java bin/TestEnv.java
+  java bin.TestEnv
 ```

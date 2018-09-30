@@ -24,8 +24,8 @@ public class MainPrivateAccess1 {
     public static void main(String[] args) {
         Vector2D v = new Vector2D(1.0, 2.0);
 
-        System.out.println(v.x);
-        System.out.println(v.y);
+        //System.out.println(v.x);
+        //System.out.println(v.y);
     }
 
 }

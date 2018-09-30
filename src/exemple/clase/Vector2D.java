@@ -23,7 +23,7 @@ public class Vector2D {
     private double x;
     private double y;
 
-    /** CONSTRUCTOR
+    /* CONSTRUCTOR
      */
     public Vector2D(double x, double y) {
         this.x = x;

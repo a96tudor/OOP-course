@@ -19,9 +19,9 @@ consola.
 De asemenea, ar fi de preferat sa downloadati si sa dezarhivati codul din acest repo, de 
 [aici](https://github.com/a96tudor/OOP-course/archive/master.zip). Sau, daca sunteti familiari cu git, puteti deschide 
 **Terminal** (MacOS/ Linux) sau **Git Bash** (Windows) si sa rulati:
-```bash
+
   git clone https://github.com/a96tudor/OOP-course.git
-```
+
 
 Odata ce ati terminat setup-ul, puteti testa daca totul este instalat corect, ruland fisierul `bin/TestEnv.java`. 
 Daca folositi un IDE, rulatul fisierului este destul de evident. Pe scurt, trebuie sa deschideti proiectul in IDE, 
@@ -30,11 +30,10 @@ sau preferati sa lucrati din consola, trebuie sa urmati 2 pasi (valabili atat pe
 
 ### 1. Compilarea codului
 Ruland comanda: 
-```bash
+
   javac bin/TestEnv.java
-```
+
 ### 2. Executarea efectiva
 Ruland comanda:
-```bash
+
   java bin.TestEnv
-```

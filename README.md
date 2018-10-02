@@ -3,7 +3,7 @@ Slides and code for a highschool-level introduction to OOP in Java
 
 # Slide-uri
 
-_TODO_
+https://docs.google.com/presentation/d/1rC-YxR3XaKc1J98Jq7xFfX3cOCmAlWTzLrNVxGqZ-DM/edit?usp=sharing
 
 # Setup
 

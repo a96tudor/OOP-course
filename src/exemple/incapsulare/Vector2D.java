@@ -57,8 +57,10 @@ public class Vector2D {
         this.y = newY;
     }
 
-    public void add(Vector2D altVector) {
-        this.x += altVector.x;
-        this.y += altVector.y;
+    public Vector2D aduna(Vector2D altVector) {
+        double newX = this.x + altVector.x;
+        double newY = this.y + altVector.y;
+
+        return new Vector2D(newX, newY);
     }
 }
